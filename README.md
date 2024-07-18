@@ -2,8 +2,6 @@
 
 **Company:** CODTECH IT SOLUTION  
 
-**ID:** CT08DS3104 
-
 **Domain:** WEB DEVELOPMENT 
 
 **Duration:** 25th JUNE 2024 TO 25TH JUly 2024
