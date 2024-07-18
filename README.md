@@ -13,7 +13,7 @@
 # CODTECH-Task1
 # OUTPUT
 **Visit -** https://abhishek080203.github.io/CODTECH-TASK-2/index.html
-
+![ss](ss.png)
 ## Project Overview ##
 Introduction
 
